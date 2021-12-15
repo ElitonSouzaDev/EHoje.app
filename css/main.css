@@ -1158,10 +1158,10 @@ h1.intro-header::before {
   padding: 0;
   outline: 0;
   border: none;
-  width: 97px;
-  height: 22px;
+  width: 120px;
+  height: 32px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 97px 22px;
+  background-size: 120px 32px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -1329,9 +1329,9 @@ h1.intro-header::before {
 
 @media only screen and (max-width: 768px) {
   .header-logo a {
-    width: 88px;
-    height: 20px;
-    background-size: 88px 20px;
+    width: 90px;
+    height: 25px;
+    background-size: 88px 25px;
   }
   #header-nav-wrap {
     display: none;
@@ -2615,10 +2615,10 @@ footer ul a:visited {
   padding: 0;
   outline: 0;
   border: none;
-  width: 93px;
-  height: 21px;
+  width: 140px;
+  height: 50px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 93px 21px;
+  background-size: 140px 50px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
